@@ -34,7 +34,26 @@
         </a>
     </li>
 
-        
+    <li class="menu-title">Website Setup</li>
+
+    <li>
+        <a href="#website" data-bs-toggle="collapse">
+            <i data-feather="users"></i>
+            <span> Company Setup </span>
+            <span class="menu-arrow"></span>
+        </a>
+        <div class="collapse" id="website">
+            <ul class="nav-second-level">
+        <li>
+            <a href="<?php echo e(route('company.profile')); ?>" class="tp-link">Company Profile</a>
+        </li>
+        <li>
+            <a href="<?php echo e(route('add.review')); ?>" class="tp-link">Add Review</a>
+        </li>
+                
+            </ul>
+        </div>
+    </li>
 
     <li class="menu-title">Pages</li>
 

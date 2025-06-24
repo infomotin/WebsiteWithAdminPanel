@@ -9,6 +9,7 @@ use App\Http\Controllers\Backend\HomeController;
 use App\Http\Controllers\FrontendController;
 use App\Http\Controllers\Backend\TeamController;
 use App\Http\Controllers\Backend\BlogController;
+use App\Http\Controllers\Backend\CompanyProfileController;
 
 Route::get('/', function () {
     return view('frontend.index');
@@ -53,6 +54,11 @@ Route::controller(ReviewController::class)->group(function(){
     Route::post('/update/review', 'UpdateReview')->name('update.review');
     Route::get('/delete/review/{id}', 'DeleteReview')->name('delete.review');
 
+});
+//CompanyProfileController 
+Route::controller(CompanyProfileController::class)->group(function(){
+    //company.profile
+    Route::get('/company/profile', 'CompanyProfileIndex')->name('company.profile');
 });
 
 Route::controller(SliderController::class)->group(function(){

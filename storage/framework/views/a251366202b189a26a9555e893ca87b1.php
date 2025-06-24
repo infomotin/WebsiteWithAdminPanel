@@ -6,4 +6,4 @@
             </div>
         </div>
     </div>
-</footer>
+</footer><?php /**PATH D:\laragon\www\basic\resources\views/admin/body/footer.blade.php ENDPATH**/ ?>

@@ -139,4 +139,4 @@
 </body>
 
 </html>
-<?php /**PATH D:\laragon\www\basic\resources\views\admin\admin_master.blade.php ENDPATH**/ ?>
+<?php /**PATH D:\laragon\www\basic\resources\views/admin/admin_master.blade.php ENDPATH**/ ?>

@@ -7,18 +7,18 @@
             <div class="logo-box">
                 <a href="index.html" class="logo logo-light">
                     <span class="logo-sm">
-                        <img src="{{ asset('backend/assets/images/logo-sm.png') }}" alt="" height="22">
+                        <img src="<?php echo e(asset('backend/assets/images/logo-sm.png')); ?>" alt="" height="22">
                     </span>
                     <span class="logo-lg">
-                        <img src="{{ asset('backend/assets/images/logo-light.png') }}" alt="" height="24">
+                        <img src="<?php echo e(asset('backend/assets/images/logo-light.png')); ?>" alt="" height="24">
                     </span>
                 </a>
                 <a href="index.html" class="logo logo-dark">
                     <span class="logo-sm">
-                        <img src="{{ asset('backend/assets/images/logo-sm.png') }}" alt="" height="22">
+                        <img src="<?php echo e(asset('backend/assets/images/logo-sm.png')); ?>" alt="" height="22">
                     </span>
                     <span class="logo-lg">
-                        <img src="{{ asset('backend/assets/images/logo-dark.png') }}" alt="" height="24">
+                        <img src="<?php echo e(asset('backend/assets/images/logo-dark.png')); ?>" alt="" height="24">
                     </span>
                 </a>
             </div>
@@ -28,7 +28,7 @@
     <li class="menu-title">Menu</li>
 
     <li>
-        <a href="{{ route('dashboard') }}" class="tp-link">
+        <a href="<?php echo e(route('dashboard')); ?>" class="tp-link">
             <i data-feather="home"></i>
             <span> Dashboard </span>
         </a>
@@ -45,10 +45,10 @@
         <div class="collapse" id="website">
             <ul class="nav-second-level">
         <li>
-            <a href="{{ route('company.profile') }}" class="tp-link">Company Profile</a>
+            <a href="<?php echo e(route('company.profile')); ?>" class="tp-link">Company Profile</a>
         </li>
         <li>
-            <a href="{{ route('add.review') }}" class="tp-link">Add Review</a>
+            <a href="<?php echo e(route('add.review')); ?>" class="tp-link">Add Review</a>
         </li>
                 
             </ul>
@@ -66,10 +66,10 @@
         <div class="collapse" id="sidebarAuth">
             <ul class="nav-second-level">
         <li>
-            <a href="{{ route('all.review') }}" class="tp-link">All Review</a>
+            <a href="<?php echo e(route('all.review')); ?>" class="tp-link">All Review</a>
         </li>
         <li>
-            <a href="{{ route('add.review') }}" class="tp-link">Add Review</a>
+            <a href="<?php echo e(route('add.review')); ?>" class="tp-link">Add Review</a>
         </li>
                 
             </ul>
@@ -85,7 +85,7 @@
         <div class="collapse" id="sidebarError">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('get.slider') }}" class="tp-link">Get Slider</a>
+                    <a href="<?php echo e(route('get.slider')); ?>" class="tp-link">Get Slider</a>
                 </li> 
             </ul>
         </div>
@@ -101,11 +101,11 @@
         <div class="collapse" id="Features">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('all.feature') }}" class="tp-link">All Features</a>
+                    <a href="<?php echo e(route('all.feature')); ?>" class="tp-link">All Features</a>
                 </li> 
 
                 <li>
-                    <a href="{{ route('add.feature') }}" class="tp-link">Add Features </a>
+                    <a href="<?php echo e(route('add.feature')); ?>" class="tp-link">Add Features </a>
                 </li> 
             </ul>
         </div>
@@ -120,7 +120,7 @@
         <div class="collapse" id="Clarifies">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('get.clarifies') }}" class="tp-link">Get Clarifies</a>
+                    <a href="<?php echo e(route('get.clarifies')); ?>" class="tp-link">Get Clarifies</a>
                 </li> 
             </ul>
         </div>
@@ -135,7 +135,7 @@
         <div class="collapse" id="Usability">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('get.usability') }}" class="tp-link">Get Usability</a>
+                    <a href="<?php echo e(route('get.usability')); ?>" class="tp-link">Get Usability</a>
                 </li> 
             </ul>
         </div>
@@ -150,10 +150,10 @@
         <div class="collapse" id="Connect">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('all.connect') }}" class="tp-link">All Connect</a>
+                    <a href="<?php echo e(route('all.connect')); ?>" class="tp-link">All Connect</a>
                 </li> 
                 <li>
-                    <a href="{{ route('add.connect') }}" class="tp-link">Add Connect</a>
+                    <a href="<?php echo e(route('add.connect')); ?>" class="tp-link">Add Connect</a>
                 </li> 
             </ul>
         </div>
@@ -169,10 +169,10 @@
         <div class="collapse" id="Faqs">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('all.faqs') }}" class="tp-link">All Faqs</a>
+                    <a href="<?php echo e(route('all.faqs')); ?>" class="tp-link">All Faqs</a>
                 </li> 
                 <li>
-                    <a href="{{ route('add.faqs') }}" class="tp-link">Add Faqs</a>
+                    <a href="<?php echo e(route('add.faqs')); ?>" class="tp-link">Add Faqs</a>
                 </li> 
             </ul>
         </div>
@@ -188,10 +188,10 @@
         <div class="collapse" id="Team">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('all.team') }}" class="tp-link">All Team</a>
+                    <a href="<?php echo e(route('all.team')); ?>" class="tp-link">All Team</a>
                 </li> 
                 <li>
-                    <a href="{{ route('add.team') }}" class="tp-link">Add Team</a>
+                    <a href="<?php echo e(route('add.team')); ?>" class="tp-link">Add Team</a>
                 </li> 
             </ul>
         </div>
@@ -207,7 +207,7 @@
         <div class="collapse" id="About">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('get.aboutus') }}" class="tp-link">About Page </a>
+                    <a href="<?php echo e(route('get.aboutus')); ?>" class="tp-link">About Page </a>
                 </li> 
                  
             </ul>
@@ -230,7 +230,7 @@
         <div class="collapse" id="Blogcat">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('all.blog.category') }}" class="tp-link">Blog Category</a>
+                    <a href="<?php echo e(route('all.blog.category')); ?>" class="tp-link">Blog Category</a>
                 </li>  
             </ul>
         </div> 
@@ -246,17 +246,17 @@
         <div class="collapse" id="Post">
             <ul class="nav-second-level">
                 <li>
-                    <a href="{{ route('all.blog.post') }}" class="tp-link">All Blog Post </a>
+                    <a href="<?php echo e(route('all.blog.post')); ?>" class="tp-link">All Blog Post </a>
                 </li>  
                 <li>
-                    <a href="{{ route('add.blog.post') }}" class="tp-link">Add Blog Post </a>
+                    <a href="<?php echo e(route('add.blog.post')); ?>" class="tp-link">Add Blog Post </a>
                 </li>  
             </ul>
         </div> 
     </li>
 
     <li>
-        <a href="{{ route('contact.all.message') }}" class="tp-link">
+        <a href="<?php echo e(route('contact.all.message')); ?>" class="tp-link">
             <i data-feather="aperture"></i>
             <span> Contact Message </span>
         </a>
@@ -314,4 +314,4 @@
         <div class="clearfix"></div>
 
     </div>
-</div>
+</div><?php /**PATH D:\laragon\www\basic\resources\views/admin/body/sidebar.blade.php ENDPATH**/ ?>
