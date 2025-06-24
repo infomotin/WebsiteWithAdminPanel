@@ -1,0 +1,77 @@
+0000000000000000000000000000000000000000 85abd9d98a35fad9e43fd30b6308299b1836ead3 easylearningbd <elebdsoft@gmail.com> 1743184621 +0600	commit (initial): first commit
+85abd9d98a35fad9e43fd30b6308299b1836ead3 ce6f6fa06313f0d3d7ee40462edb28715fe32e42 easylearningbd <elebdsoft@gmail.com> 1743186121 +0600	commit: b13 Two-Factor Authentication Part 1
+ce6f6fa06313f0d3d7ee40462edb28715fe32e42 d11f0e705a0a1a66fb1d6f59e17d00e0ed09068c easylearningbd <elebdsoft@gmail.com> 1743187386 +0600	commit: b14 Two-Factor Authentication Part 2
+d11f0e705a0a1a66fb1d6f59e17d00e0ed09068c 26417f74a08499e492ad1bcf2c29575686e8732d easylearningbd <elebdsoft@gmail.com> 1743189460 +0600	commit: b15 Two-Factor Authentication Part 3
+26417f74a08499e492ad1bcf2c29575686e8732d c420c95a28c8af5bbcf87aa112c8bf724025479b easylearningbd <elebdsoft@gmail.com> 1743192063 +0600	commit: b16 Admin Profile & Image Update Part 1
+c420c95a28c8af5bbcf87aa112c8bf724025479b b76625c2fa7e2961c38211ee1fd30edc2c0a1a87 easylearningbd <elebdsoft@gmail.com> 1743197336 +0600	commit: b17 Admin Profile & Image Update Part 2
+b76625c2fa7e2961c38211ee1fd30edc2c0a1a87 fb7f961beb71ff62eb53860c6eb44f73292a9e8c easylearningbd <elebdsoft@gmail.com> 1743198309 +0600	commit: b18 Admin Profile & Image Update Part 3
+fb7f961beb71ff62eb53860c6eb44f73292a9e8c 35a2316252cd0cc723890258ed0c6166105a8ed6 easylearningbd <elebdsoft@gmail.com> 1743199929 +0600	commit: b19 Admin Profile & Image Update Part 4
+35a2316252cd0cc723890258ed0c6166105a8ed6 2963384d5ac261015ceb477fdb127db65ff4e93f easylearningbd <elebdsoft@gmail.com> 1743202038 +0600	commit: b20 Adding Toster In For View Message
+2963384d5ac261015ceb477fdb127db65ff4e93f bdeba0728bf623297484c1064a04e6617dda94e2 easylearningbd <elebdsoft@gmail.com> 1743203314 +0600	commit: b21 Admin Profile Change Password Part 1
+bdeba0728bf623297484c1064a04e6617dda94e2 edfd14fea68d6d6d507078ada2d51e0fe8d58f61 easylearningbd <elebdsoft@gmail.com> 1743205006 +0600	commit: b22 Admin Profile Change Password Part 2
+edfd14fea68d6d6d507078ada2d51e0fe8d58f61 ce748d7f7d98842278b81bcf11840578c6d81915 easylearningbd <elebdsoft@gmail.com> 1743270206 +0600	commit: b24 Frontend Template Setup
+ce748d7f7d98842278b81bcf11840578c6d81915 109e4e68f90424cf88fe5fbbe29da79570745793 easylearningbd <elebdsoft@gmail.com> 1743271653 +0600	commit: b25 Frontend Theme Layout Setup Part 1
+109e4e68f90424cf88fe5fbbe29da79570745793 0a237d1303c62fd4bcce8ea7e4451df450f9e467 easylearningbd <elebdsoft@gmail.com> 1743273035 +0600	commit: b26 Frontend Theme Layout Setup Part 2
+0a237d1303c62fd4bcce8ea7e4451df450f9e467 852682cc4cb27d9815d7fa95cc4fe1c8f823aa2d easylearningbd <elebdsoft@gmail.com> 1743274254 +0600	commit: b27 Frontend Header Menu Update
+852682cc4cb27d9815d7fa95cc4fe1c8f823aa2d 170265eb9c4c596ff37499191a53047347d9578e easylearningbd <elebdsoft@gmail.com> 1743274647 +0600	commit: b28 Frontend Header Setup User login and Not Login Button
+170265eb9c4c596ff37499191a53047347d9578e 51e99ec78444a35e5c1f99d1e4fcada2eaaa00a5 easylearningbd <elebdsoft@gmail.com> 1743278635 +0600	commit: b29 Home Review Section Setup Part 1
+51e99ec78444a35e5c1f99d1e4fcada2eaaa00a5 a923d299b611112b497c8d44c0316aa04deb55c3 easylearningbd <elebdsoft@gmail.com> 1743279800 +0600	commit: b30 Home Review Section Setup Part 2
+a923d299b611112b497c8d44c0316aa04deb55c3 6500ca305b60615224d7b816dbc58b8480504a6d easylearningbd <elebdsoft@gmail.com> 1743280996 +0600	commit: b31 Home Review Section Setup Part 3
+6500ca305b60615224d7b816dbc58b8480504a6d 913fe09a9b52f9c38572ccb460437ed1f4a77ad8 easylearningbd <elebdsoft@gmail.com> 1743283142 +0600	commit: b32 Home Review Section Setup Part 4
+913fe09a9b52f9c38572ccb460437ed1f4a77ad8 4eab7288619ee9c83693debdf12d06b5405e8058 easylearningbd <elebdsoft@gmail.com> 1743283662 +0600	commit: b33 Install Image Intervention
+4eab7288619ee9c83693debdf12d06b5405e8058 08d594f20188785c8a878569f32d0a362752925f easylearningbd <elebdsoft@gmail.com> 1743284785 +0600	commit: b34 Home Review Section Setup Part 5
+08d594f20188785c8a878569f32d0a362752925f ac714dfc6a0b9b8a22124a6e6950f4cde028c544 easylearningbd <elebdsoft@gmail.com> 1743288513 +0600	commit: b35 Home Review Section Setup Part 6
+ac714dfc6a0b9b8a22124a6e6950f4cde028c544 af3e5514bb2132819a1873843025219dd97770bf easylearningbd <elebdsoft@gmail.com> 1743289136 +0600	commit: b36 Home Review Section Setup Part 7
+af3e5514bb2132819a1873843025219dd97770bf 7b2ef52f8123baaa76a4038dac7fdc75d73b4071 easylearningbd <elebdsoft@gmail.com> 1743713108 +0600	commit: b37 Show Review in Frontend
+7b2ef52f8123baaa76a4038dac7fdc75d73b4071 a77c747ad16ca22cbafa07ca3f7ac17227710385 easylearningbd <elebdsoft@gmail.com> 1743717323 +0600	commit: b38 Backend Home Slider Setup Part 1
+a77c747ad16ca22cbafa07ca3f7ac17227710385 88ea6e081e6a52ebc3306596a19dabedd5ccb95a easylearningbd <elebdsoft@gmail.com> 1743719136 +0600	commit: b39 Backend Home Slider Setup Part 2
+88ea6e081e6a52ebc3306596a19dabedd5ccb95a 60e18c937b10b532b25e82c2fbd97b129b462b6c easylearningbd <elebdsoft@gmail.com> 1743720263 +0600	commit: b40 Show Slider in Home Page
+60e18c937b10b532b25e82c2fbd97b129b462b6c 43d78c8c5c75146c4e4bc50e3d497b79b615f0b7 easylearningbd <elebdsoft@gmail.com> 1743763649 +0600	commit: b41 Slider Update With Onclick Part 1
+43d78c8c5c75146c4e4bc50e3d497b79b615f0b7 d765c5b9a437eb817be0e5afb5cb2818f54892c3 easylearningbd <elebdsoft@gmail.com> 1743765463 +0600	commit: b42 Slider Update With Onclick Part 2
+d765c5b9a437eb817be0e5afb5cb2818f54892c3 2042ee8b7fb3de78ebb5b8f92565ec0e52ed200a easylearningbd <elebdsoft@gmail.com> 1743806545 +0600	commit: b43 Features Header Update With Onclick
+2042ee8b7fb3de78ebb5b8f92565ec0e52ed200a 793c30b8a54d5c1841ec157c42f4d1848bef09b4 easylearningbd <elebdsoft@gmail.com> 1743808046 +0600	commit: b44 Users Header Update With Onclick
+793c30b8a54d5c1841ec157c42f4d1848bef09b4 4d28d935e98444fa7e3ff9b2e757ef41a3d888f6 easylearningbd <elebdsoft@gmail.com> 1743808495 +0600	commit: b45 Answers Header Update With Onclick
+4d28d935e98444fa7e3ff9b2e757ef41a3d888f6 6127f4d4aeb023f76222cc795402f485844e476b easylearningbd <elebdsoft@gmail.com> 1743877438 +0600	commit: b46 Backend Setup Home Features Section Part 1
+6127f4d4aeb023f76222cc795402f485844e476b da1f9c68d863059095888e9716c357d1aa7eb0ad easylearningbd <elebdsoft@gmail.com> 1743894404 +0600	commit: b47 Backend Setup Home Features Section Part 2
+da1f9c68d863059095888e9716c357d1aa7eb0ad 5611eee4f884624386c6f30f55c0425aaae655e8 easylearningbd <elebdsoft@gmail.com> 1743895196 +0600	commit: b48 Backend Setup Home Features Section Part 3
+5611eee4f884624386c6f30f55c0425aaae655e8 2c635117bf7c6572ebe4b7873d0d0236dc71008d easylearningbd <elebdsoft@gmail.com> 1743896178 +0600	commit: b49 Frontend Show Home Features
+2c635117bf7c6572ebe4b7873d0d0236dc71008d cf70cb9330126badf0b55e72215e7d0341b8b2cb easylearningbd <elebdsoft@gmail.com> 1743897059 +0600	commit: b50 Home Clarifies Section Setup Part 1
+cf70cb9330126badf0b55e72215e7d0341b8b2cb 0baff99422de5f513baeab476176815f8e95b3f0 easylearningbd <elebdsoft@gmail.com> 1743898188 +0600	commit: b51 Home Clarifies Section Setup Part 2
+0baff99422de5f513baeab476176815f8e95b3f0 358e94722ac92343ca818c77af4514f5b697e210 easylearningbd <elebdsoft@gmail.com> 1743898529 +0600	commit: b52 Home Clarifies Section Setup Part 3
+358e94722ac92343ca818c77af4514f5b697e210 9b849867b9b1b05340721f82f299590be6fd7ac9 easylearningbd <elebdsoft@gmail.com> 1743899386 +0600	commit: b53 Home Usability Section Setup Part 1
+9b849867b9b1b05340721f82f299590be6fd7ac9 bea567019715cf88f062b8b20700e85af9eda448 easylearningbd <elebdsoft@gmail.com> 1743899868 +0600	commit: b54 Home Usability Section Setup Part 2
+bea567019715cf88f062b8b20700e85af9eda448 bd0a11fdba502150363f58a35ed74e8b62baa23d easylearningbd <elebdsoft@gmail.com> 1743900525 +0600	commit: b55 Home Usability Section Setup Part 3
+bd0a11fdba502150363f58a35ed74e8b62baa23d e64ebbccbf51c9c1e12056145578cbeb5c9e98f0 easylearningbd <elebdsoft@gmail.com> 1743954582 +0600	commit: b56 Home Usability Down Section Setup Part 1
+e64ebbccbf51c9c1e12056145578cbeb5c9e98f0 66c7c193c9e1b45ea464641e51488296ab7e0c76 easylearningbd <elebdsoft@gmail.com> 1743961520 +0600	commit: b57 Home Usability Down Section Setup Part 2
+66c7c193c9e1b45ea464641e51488296ab7e0c76 b1c65b1b57a2185ff7dae1c748d1d373b2bb4c8c easylearningbd <elebdsoft@gmail.com> 1743962492 +0600	commit: b58 Home Usability Down Section Setup Part 3
+b1c65b1b57a2185ff7dae1c748d1d373b2bb4c8c 772cd6cf466824711920096b34dbdf1ab922a682 easylearningbd <elebdsoft@gmail.com> 1743964058 +0600	commit: b59 Home Usability Down Section Setup Part 4
+772cd6cf466824711920096b34dbdf1ab922a682 31f62359b0329d382175f9630d9c01f4bee09467 easylearningbd <elebdsoft@gmail.com> 1743965269 +0600	commit: b60 Home Answers Section Setup Part 1
+31f62359b0329d382175f9630d9c01f4bee09467 7a7b1f12151efd7b8fefabcb1ad6ed61cd10c471 easylearningbd <elebdsoft@gmail.com> 1743966020 +0600	commit: b61 Home Answers Section Setup Part 2
+7a7b1f12151efd7b8fefabcb1ad6ed61cd10c471 2d806efa20140c8e47d0e9886429f2f908560c41 easylearningbd <elebdsoft@gmail.com> 1743966878 +0600	commit: b62 Home Answers Section Setup Part 3
+2d806efa20140c8e47d0e9886429f2f908560c41 cbf4a4952d4fef87286456844dab244c8669a5df easylearningbd <elebdsoft@gmail.com> 1743978654 +0600	commit: b63 Home New Level Section Setup Part 1
+cbf4a4952d4fef87286456844dab244c8669a5df 4b90ea05fc02bc0cf34947cbbcf70509d95047b4 easylearningbd <elebdsoft@gmail.com> 1743980676 +0600	commit: b64 Home New Level Section Setup Part 2
+4b90ea05fc02bc0cf34947cbbcf70509d95047b4 e5793f8d8c4c0216cdc3ac6ca75b3a128fc0aab4 easylearningbd <elebdsoft@gmail.com> 1743981678 +0600	commit: b65 Home New Level Section Setup Part 3
+e5793f8d8c4c0216cdc3ac6ca75b3a128fc0aab4 55b179728179e19647cd42a27a025ccc0a75ed3b easylearningbd <elebdsoft@gmail.com> 1744034966 +0600	commit: b66 Our Team Section Setup Part 1
+55b179728179e19647cd42a27a025ccc0a75ed3b d4e9b911b0d5537f861f4bbf33d36b9701f94657 easylearningbd <elebdsoft@gmail.com> 1744049061 +0600	commit: b67 Our Team Section Setup Part 2
+d4e9b911b0d5537f861f4bbf33d36b9701f94657 895e1e50d0c594224d61f3581ea477111c8fd2e4 easylearningbd <elebdsoft@gmail.com> 1744051363 +0600	commit: b68 Our Team Section Setup Part 3
+895e1e50d0c594224d61f3581ea477111c8fd2e4 c4d6485dd6a943bc38d4409b4615dbb7bb5fd055 easylearningbd <elebdsoft@gmail.com> 1744052295 +0600	commit: b69 Add JavaScript Validation
+c4d6485dd6a943bc38d4409b4615dbb7bb5fd055 ab8f808fdb0a691b8d153a8e3119e4f49f830d8c easylearningbd <elebdsoft@gmail.com> 1744052590 +0600	commit: b70 Show Our Team in Frontend
+ab8f808fdb0a691b8d153a8e3119e4f49f830d8c c39345dc02a28c298fcad5abc819f58b1132d4d2 easylearningbd <elebdsoft@gmail.com> 1744054905 +0600	commit: b71 About Page Section Setup Part 1
+c39345dc02a28c298fcad5abc819f58b1132d4d2 0a66f4d45483cdbb6a3bfb568f069d6b6bd70ff1 easylearningbd <elebdsoft@gmail.com> 1744055870 +0600	commit: b72 About Page Section Setup Part 2
+0a66f4d45483cdbb6a3bfb568f069d6b6bd70ff1 b25ced7963d3aa2601317c6a56c45dd83c422c68 easylearningbd <elebdsoft@gmail.com> 1744057867 +0600	commit: b73 About Page Section Setup Part 3
+b25ced7963d3aa2601317c6a56c45dd83c422c68 964f3c6cec66358dade5a10a19057637c85bcea4 easylearningbd <elebdsoft@gmail.com> 1744061310 +0600	commit: b74 About Page Section Setup Part 4
+964f3c6cec66358dade5a10a19057637c85bcea4 169e15804580325f2dc09f914f162063d8ede7ba easylearningbd <elebdsoft@gmail.com> 1744062561 +0600	commit: b75 Blog Category Section Setup Part 1
+169e15804580325f2dc09f914f162063d8ede7ba 1ad0475787e32514f913df56f926634122c54c7e easylearningbd <elebdsoft@gmail.com> 1744063785 +0600	commit: b76 Blog Category Section Setup Part 2
+1ad0475787e32514f913df56f926634122c54c7e de65bf0d6db193225e1a76180a84559dedc38676 easylearningbd <elebdsoft@gmail.com> 1744065262 +0600	commit: b77 Blog Category Section Setup Part 3
+de65bf0d6db193225e1a76180a84559dedc38676 d234a0342ce96477c479a503eccd6510736cf1cf easylearningbd <elebdsoft@gmail.com> 1744110434 +0600	commit: b78 Blog Post Section Setup Part 1
+d234a0342ce96477c479a503eccd6510736cf1cf 365312dcec664799e664a84dcae588b6f14ec0bf easylearningbd <elebdsoft@gmail.com> 1744111581 +0600	commit: b79 Blog Post Section Setup Part 2
+365312dcec664799e664a84dcae588b6f14ec0bf e8e34fecda133b919a12c42754577f3b62fbca97 easylearningbd <elebdsoft@gmail.com> 1744112379 +0600	commit: b80 Blog Post Section Setup Part 3
+e8e34fecda133b919a12c42754577f3b62fbca97 b3378a428729e78a08ba00e5590a752bb9fb0249 easylearningbd <elebdsoft@gmail.com> 1744140945 +0600	commit: b81 Blog Post Section Setup Part 4
+b3378a428729e78a08ba00e5590a752bb9fb0249 6a0fe51b88f23309841c4ad99b7a8dfb8bda2f61 easylearningbd <elebdsoft@gmail.com> 1744141469 +0600	commit: b82 Blog Post Section Setup Part 5
+6a0fe51b88f23309841c4ad99b7a8dfb8bda2f61 760711bd7e0ee402847c475f7912aeeb0ad127a8 easylearningbd <elebdsoft@gmail.com> 1744143167 +0600	commit: b83 Show Blog Post in Frontend Part 1
+760711bd7e0ee402847c475f7912aeeb0ad127a8 f3b3e94c7cbc1e740d047ea0a27df348f387a65e easylearningbd <elebdsoft@gmail.com> 1744147053 +0600	commit: b84 Show Blog Post in Frontend Part 2
+f3b3e94c7cbc1e740d047ea0a27df348f387a65e c382ec0a43707c60cf91febc7b39d40ef5f8af9e easylearningbd <elebdsoft@gmail.com> 1744148420 +0600	commit: b85 Show Blog Post in Frontend Part 3
+c382ec0a43707c60cf91febc7b39d40ef5f8af9e f33ce56e2deb9dbc58e3152967c0537e6f5aec64 easylearningbd <elebdsoft@gmail.com> 1744149582 +0600	commit: b86 Show Blog Post in Frontend Part 4
+f33ce56e2deb9dbc58e3152967c0537e6f5aec64 ca1dd0630858827bc92fd87095a389136656862a easylearningbd <elebdsoft@gmail.com> 1744152899 +0600	commit: b87 Contact Page Setup Part 1
+ca1dd0630858827bc92fd87095a389136656862a d92ac9f051d390556010dd2127dd92495250c7dd easylearningbd <elebdsoft@gmail.com> 1744153573 +0600	commit: b88 Contact Page Setup Part 2
+d92ac9f051d390556010dd2127dd92495250c7dd 8c05bcd9a745054f11c35905a2341c01eee37c39 easylearningbd <elebdsoft@gmail.com> 1744154368 +0600	commit: b89 Contact Page Setup Part 3

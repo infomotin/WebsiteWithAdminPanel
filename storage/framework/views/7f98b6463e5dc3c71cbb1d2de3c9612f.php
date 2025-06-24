@@ -1,0 +1,1 @@
+<a href="#" class="btn btn-primary btn-lg-square back-to-top"><i class="fa fa-arrow-up"></i></a>   <?php /**PATH D:\laragon\www\basic\resources\views\frontend\home\back_to_top.blade.php ENDPATH**/ ?>
